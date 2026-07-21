@@ -9,7 +9,7 @@ public class print_subarray {
               
               for(int k=start;k<=end;k++){
                 System.out.print("("+arr[k]+")"+" ");
-                sum=sum+arr[k];
+                
             }
             System.out.println();
         }
